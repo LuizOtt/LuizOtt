@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Olá, me chamo Luiz Otávio e seja bem vindo ( a ) ao meu perfil ! 😁
 
  <div>
    <a href="https://github.com/LuizOtt">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Acompanhe um pouco mais do que eu faço nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/luiz.otavio99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
