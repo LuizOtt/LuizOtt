@@ -1,26 +1,44 @@
-## Olá, me chamo Luiz Otávio e seja bem vindo ( a ) ao meu perfil ! 😁
+# Olá, eu sou Luiz Otávio
 
- <div>
-   <a href="https://github.com/LuizOtt">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizOtt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOtt&layout=compact&langs_count=6&theme=tokyonight"/>
+Construo projetos pessoais de **inteligência artificial, automação e MarTech**, transformando estudo em sistemas documentados, experimentos e conteúdo acessível.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Acompanhe um pouco mais do meu trabalho nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/luiz.otavio99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luizotaviottr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luizotavioadm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Projetos-7C3AED?style=flat-square&logo=github)](https://github.com/LuizOtt/Meu-Portifolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luizotavioadm-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luizotavioadm)
+[![TikTok](https://img.shields.io/badge/TikTok-@luizotavio.tech-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@luizotavio.tech)
 
-</div>
+## O que estou construindo
+
+### Creator Radar AI
+
+Uma operação pessoal de conteúdo que combina **conhecimento acumulado, ideias próprias e tendências externas** para produzir vídeos originais sobre IA e tecnologia.
+
+O projeto inclui curadoria de fontes, verificação factual, priorização de pautas, roteiros, aprovação humana e, nas próximas etapas, transcrição e edição assistida com Whisper, FFmpeg e Remotion.
+
+[Ver projeto no portfólio](https://github.com/LuizOtt/Meu-Portifolio/tree/main/projects/creator-radar-ai)
+
+## Foco atual
+
+- agentes de IA com ferramentas e permissões controladas;
+- automações com n8n, APIs e bancos de dados;
+- IA aplicada a marketing, carreira e criação de conteúdo;
+- organização de conhecimento e curadoria de fontes;
+- edição programática de vídeos e experimentos com modelos locais.
+
+## Princípios
+
+- Documentar o que foi observado, testado e aprendido.
+- Não confundir demonstração com resultado comprovado.
+- Começar por MVPs pequenos e reproduzíveis.
+- Manter revisão humana em decisões e publicações.
+- Proteger credenciais, dados privados e informações de trabalho.
+
+## Tecnologias em estudo e aplicação
+
+`n8n` · `Docker` · `Supabase` · `PostgreSQL` · `JavaScript` · `Python` · `FFmpeg` · `Remotion` · `Whisper` · `GitHub Actions`
+
+## Contato
+
+- [Portfólio no GitHub](https://github.com/LuizOtt/Meu-Portifolio)
+- [LinkedIn](https://www.linkedin.com/in/luizotavioadm)
+- [TikTok — @luizotavio.tech](https://www.tiktok.com/@luizotavio.tech)
+- E-mail: `luizotaviottr@gmail.com`
