@@ -1,4 +1,4 @@
-# Olá, eu sou Luiz Otávio
+# Olá, eu sou o Luiz Otávio
 
 Construo projetos pessoais de **inteligência artificial, automação e MarTech**, transformando estudo em sistemas documentados, experimentos e conteúdo acessível.
 
