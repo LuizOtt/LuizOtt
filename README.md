@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LuizOtt/Meu-Portifolio"><img alt="Abrir portfólio" src="https://img.shields.io/badge/PORTFÓLIO-VER_PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/luizotavioadm"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.tiktok.com/@luizotavio.tech"><img alt="TikTok" src="https://img.shields.io/badge/TIKTOK-@LUIZOTAVIO.TECH-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://github.com/LuizOtt/Meu-Portifolio"><img alt="Abrir portfólio" src="https://img.shields.io/badge/-PORTFÓLIO-7C3AED?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luizotavioadm"><img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@luizotavio.tech"><img alt="TikTok" src="https://img.shields.io/badge/-TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </p>
 
 ## O que estou construindo
@@ -19,7 +19,7 @@ Uma operação pessoal de conteúdo que combina **conhecimento acumulado, ideias
 O projeto inclui curadoria de fontes, verificação factual, priorização de pautas, roteiros, aprovação humana e, nas próximas etapas, transcrição e edição assistida com Whisper, FFmpeg e Remotion.
 
 <p>
-  <a href="https://github.com/LuizOtt/Meu-Portifolio/tree/main/projects/creator-radar-ai"><img alt="Abrir Creator Radar AI" src="https://img.shields.io/badge/CREATOR_RADAR_AI-ABRIR_PROJETO-6D4AFF?style=for-the-badge&logo=radar&logoColor=white"></a>
+  <a href="https://github.com/LuizOtt/Meu-Portifolio/tree/main/projects/creator-radar-ai"><img alt="Abrir Creator Radar AI" src="https://img.shields.io/badge/-CREATOR_RADAR_AI-6D4AFF?style=for-the-badge&logo=radar&logoColor=white"></a>
 </p>
 
 ## Foco atual
@@ -57,6 +57,6 @@ O projeto inclui curadoria de fontes, verificação factual, priorização de pa
 ## Contato
 
 <p align="center">
-  <a href="mailto:luizotaviottr@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--MAIL-FALE_COMIGO-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/luiz.otavio99"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-@LUIZ.OTAVIO99-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:luizotaviottr@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/-E--MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/luiz.otavio99"><img alt="Instagram" src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
