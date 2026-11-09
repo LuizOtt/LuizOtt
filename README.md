@@ -10,16 +10,10 @@
   <a href="https://www.tiktok.com/@luizotavio.tech"><img alt="TikTok" src="https://img.shields.io/badge/-TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </p>
 
-## O que estou construindo
+## Meu portfólio
 
-### Creator Radar AI
-
-Uma operação pessoal de conteúdo que combina **conhecimento acumulado, ideias próprias e tendências externas** para produzir vídeos originais sobre IA e tecnologia.
-
-O projeto inclui curadoria de fontes, verificação factual, priorização de pautas, roteiros, aprovação humana e, nas próximas etapas, transcrição e edição assistida com Whisper, FFmpeg e Remotion.
-
-<p>
-  <a href="https://github.com/LuizOtt/Meu-Portifolio/tree/main/projects/creator-radar-ai"><img alt="Abrir Creator Radar AI" src="https://img.shields.io/badge/-CREATOR_RADAR_AI-6D4AFF?style=for-the-badge&logo=radar&logoColor=white"></a>
+<p align="center">
+  <a href="https://github.com/LuizOtt/Meu-Portifolio"><img alt="Abrir meu portfólio" src="https://img.shields.io/badge/-ABRIR_MEU_PORTFÓLIO-7C3AED?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ## Foco atual
